@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="abstractblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlindBoard.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cell.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="command.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decoratorblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="display.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ForceBoard.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="heavyblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeavyBoard.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="iblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level0.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level2.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level4.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="middleblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="observer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="parser.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="subject.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zblock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="abstractboard.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decoratorboard.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="abstractblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlindBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="command.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decoratorblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ForceBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="heavyblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeavyBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="middleblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="oblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="observer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="subject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="zblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="abstractboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decoratorboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
